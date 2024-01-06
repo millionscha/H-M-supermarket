@@ -218,6 +218,14 @@ button {
     background-size: 100%;
     background-repeat: no-repeat;
 }
+.banner_bg_mainn {
+    width: 100%;
+    float: left;
+    background-image: url('https://th.bing.com/th/id/OIP.cL-uhv-33186NU3XhauqrAHaEo?rs=1&pid=ImgDetMain');
+    height: auto;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
 
 
 /* banner bg main end */
